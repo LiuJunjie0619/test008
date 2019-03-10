@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return 'ZhangSan is Manager!'
+    return 'V1.1!'
 
 
 
